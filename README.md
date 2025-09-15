@@ -1,6 +1,11 @@
-Contributors should go through the [Contributing Guide](https://github.com/fluttergems/awesome-open-source-flutter-apps/blob/main/CONTRIBUTING.md) to learn how to send across a PR.
+***Awesome Open Source Flutter Applications* !!!**
 
-# Awesome Open Source Flutter Applications
+![]()
+
+Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coding-ranjith/)
+
+***This list is continuously updated.*** - You can take pull requests and contribute. All Links are tested and working fine. Please ping if any link doesn't work
+
 
 ![flutterapps (1)](https://github.com/user-attachments/assets/103a0be6-9429-4c7c-94fb-3b5e69a6f80a)
 
